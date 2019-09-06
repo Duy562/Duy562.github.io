@@ -1,0 +1,33 @@
+html {
+    font-size: 10px;
+    font-family: 'Chilanka', cursive;
+    background-color: #8729E4;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 10px 3px 10px black;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2; /* Chiều cao giữa các dòng */
+    letter-spacing: 1px; /* Khoảng cách giữa các chữ*/
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0px 20px 20px 20px;
+    border: 5px solid black;
+    background-color: #BF3F87;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
